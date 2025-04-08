@@ -32,8 +32,6 @@ This led to deeper questions: *Why should a shopkeeper raise prices just because
 
 So began the vision—*what if we replaced profit-driven intermediaries like shopkeepers with AI-based distribution systems? What if everyone had enough money, but with rate limits to ensure fair consumption?* Work would no longer be for survival but for contribution, with privileges and access based on effort and innovation, not wealth accumulation.
 
-The discussion evolved toward decentralized technologies like crypto. If governments can't access private wallets, *can citizens opt out of fiat currency entirely?* If everyone converts to crypto and agrees to use it peer-to-peer, the traditional state structure could collapse, especially if shopkeepers and service providers also accept crypto.
-
 *What if society functioned without physical money at all, replacing it with crypto or even gold in trade?* The conclusion: the goal isn't a new currency—*the goal is to eliminate exchange asymmetry.* If hoarding creates artificial scarcity, then access to resources should be governed not by what you’ve saved, but by what you can offer to humanity.
 
 The idea snowballed: *why not replace economic motivation with psychological fulfillment?* Let the lazy live simply, without the perks of contribution. Let work bring purpose and access to advanced tech. Resources are abundant enough to sustain all; what we lack is coordination and distribution.
